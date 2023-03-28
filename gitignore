@@ -3,6 +3,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea/.gitignore
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProject_3.iml
+.idea/vcs.xml
 
 # C extensions
 *.so
